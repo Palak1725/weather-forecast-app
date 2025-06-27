@@ -30,6 +30,23 @@ This Python GUI project fetches **live weather data** using the OpenWeatherMap A
 
 ---
 
+## 🤝 Contribution
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+## 📜 License
+This project is licensed under the MIT License.
+
+## 🙌 Acknowledgements
+- OpenWeatherMap for the API
+
+- Geopy for geolocation services
+
+- TimezoneFinder for timezone support
+
+- Pillow for image handling
+
+---
+
 ## 🚀 Getting Started
 
 ### 🔧 Prerequisites
